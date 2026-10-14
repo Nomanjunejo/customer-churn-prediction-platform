@@ -79,6 +79,3 @@ The model is evaluated using the following metrics:
 - F1 Score: `Add actual value`
 - ROC-AUC: `Add actual value`
 
-## Project Structure
-
-The following is a suggested structure. Adjust the paths and filenames to match your
