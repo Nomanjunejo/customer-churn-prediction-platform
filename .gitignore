@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Frontend
+node_modules/
+dist/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dataset CSV files
+data/raw/*.csv
+data/processed/*.csv
